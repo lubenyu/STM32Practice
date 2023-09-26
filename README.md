@@ -1,2 +1,2 @@
 # STM32Practice
-使用STM32官方评估板NUCLEO-H723ZG进行实践联系的代码仓库
+使用STM32官方评估板NUCLEO-H723ZG进行实践练习的代码仓库
